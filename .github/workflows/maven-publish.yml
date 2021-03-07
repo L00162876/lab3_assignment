@@ -30,9 +30,9 @@ jobs:
         # ID of the distributionManagement repository in the pom.xml file. Default is `github`
         server-id: github
         # Environment variable name for the username for authentication to the Apache Maven repository. Default is $GITHUB_ACTOR
-        server-username: # optional, default is GITHUB_ACTOR
+        server-username: GITHUB_ACTOR
         # Environment variable name for password or token for authentication to the Apache Maven repository. Default is $GITHUB_TOKEN
-        server-password: # optional, default is GITHUB_TOKEN
+        server-password: GITHUB_TOKEN
         # Path to where the settings.xml file will be written. Default is ~/.m2.
         # GPG private key to import. Default is empty string.
         gpg-private-key: # optional
