@@ -16,7 +16,7 @@
   	<repository>
   		<id>github</id>
   		<name>Github L00162876 Apache Maven Packages</name>
-  		<url>https://maven.pkg.github.com/L00162876/githubactionslab</url>
+  		<url>https://maven.pkg.github.com/L00162876/lab3_assignment</url>
   	</repository>
   </distributionManagement>
 
